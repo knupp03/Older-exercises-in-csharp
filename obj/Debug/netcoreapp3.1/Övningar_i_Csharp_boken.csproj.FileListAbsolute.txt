@@ -1,0 +1,13 @@
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\bin\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.exe
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\bin\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.deps.json
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\bin\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.runtimeconfig.json
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\bin\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.runtimeconfig.dev.json
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\bin\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.dll
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\bin\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.pdb
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\obj\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.csprojAssemblyReference.cache
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\obj\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.AssemblyInfoInputs.cache
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\obj\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.AssemblyInfo.cs
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\obj\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.csproj.CoreCompileInputs.cache
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\obj\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.dll
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\obj\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.pdb
+C:\Users\Carl\Desktop\Programmera - VSC\Csharp_VSC\Övningar_i_Csharp_boken\obj\Debug\netcoreapp3.1\Övningar_i_Csharp_boken.genruntimeconfig.cache
